@@ -1,8 +1,8 @@
 ## 👋 Hey, I'm Mishal Abdullah.
 A badass programmer with a **passion** for Hacking things. Constantly building highly niche tools and working on projects that other developers fear to work. 
 
-## [My Website](https://mishalabdullah.xyz)
-[![My Website](/image.png)](https://mishalabdullah.xyz)
+## [My Website](https://mishalabdullah.com)
+[![My Website](/image.png)](https://mishalabdullah.com)
 
 # 💻 Tech Tools
 
